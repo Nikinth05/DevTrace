@@ -8,6 +8,12 @@ A full-stack developer analytics platform that integrates with GitHub, tracks lo
 
 ---
 
+# Live Demo
+
+https://dev-trace-eight.vercel.app/
+
+---
+
 ## Features
 
 - **GitHub analytics** — profile, repositories, commits, and language distribution
