@@ -58,7 +58,7 @@ devtrace/
 
 | Home | Dashboard | Activity |
 | ---- | --------- | -------- |
-| `./docs/screenshots/Home.png` | `./docs/screenshots/Dashboard.png` | `./docs/screenshots/Activity.png` |
+| `./docs/screenshots/HOME.png` | `./docs/screenshots/Dashboard.png` | `./docs/screenshots/Activity.png` |
 
 ---
 
