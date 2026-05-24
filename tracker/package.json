@@ -1,0 +1,14 @@
+{
+  "name": "devtrace-tracker",
+  "version": "1.0.0",
+  "description": "Local coding activity tracker for DevTrace",
+  "main": "tracker.js",
+  "scripts": {
+    "start": "node tracker.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
