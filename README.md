@@ -2,7 +2,7 @@
 
 A full-stack developer analytics platform that integrates with GitHub, tracks local coding activity, and visualizes productivity insights.
 
-![Dashboard screenshot](./docs/screenshots/dashboard.png)
+![Dashboard screenshot](./docs/screenshots/Dashboard.png)
 
 > **Note:** Add your own screenshots to `docs/screenshots/` before publishing.
 
